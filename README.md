@@ -1,2 +1,2 @@
 # newsintrends
-newsintrends
+newsintrends hello world
